@@ -6,6 +6,9 @@
 ##### &nbsp;
 
 ## Introduction
+
+### Note: For help installing dependencies, please see the `install.R` script within this GitHub repository.
+
 The genomeSidekick data analysis tool is a simple and efficient application that allows users to analyze and visualize RNA-seq and ATAC-seq data without having to learn the nitty gritty bioinformatics. This document will provide a comprehensive overview of the functions and capabilities of each tab within the application. For your convenience, the app can be used both online as a website or locally run in your RStudio. If you run into any problems while using the app in RStudio, refer to the Troubleshooting section to see some common errors and solutions that may occur.
 
 Please visit our GitHub page to download the source code to use in your RStudio application.
@@ -159,7 +162,9 @@ As with the volcano plots from before, the more genes you have (the larger your 
 
 ## Troubleshooting
 
-Besides running the application through the URL online, you can also run it locally through your RStudio application. Simply download the script from out Github page and open the app.R file in RStudio. It will be one signel file, and everything you need will be in there.
+### Note: For help installing dependencies, please see the `install.R` script within this GitHub repository.
+
+Besides running the application through the URL online, you can also run it locally through your RStudio application. Simply download the script from out Github page and open the app.R file in RStudio. It will be one single file, and everything you need will be in there.
 
 ### 1. *How to Download R and RStudio*
 
