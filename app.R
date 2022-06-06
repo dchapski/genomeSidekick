@@ -18,6 +18,7 @@ library(easyPubMed)
 ui <- shinyUI(
   
   navbarPage("genomeSidekick: A data analysis application",
+             tags$a(href="https://github.com/dchapski/genomeSidekick", "Test data can be found in test_data directory here"),
              
   # Define file upload page  
   tabPanel("Data File Upload (RNA Seq)",
