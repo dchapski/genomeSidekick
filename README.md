@@ -1,5 +1,6 @@
 # **genomeSidekick: an epigenomic data analysis application**
 ##### *A simple and comprehensive method for bioinformatics beginners to visualize their data.*
+Test data can be found [HERE](https://github.com/dchapski/genomeSidekick/tree/main/test_data)
 
 ##### &nbsp;
 
